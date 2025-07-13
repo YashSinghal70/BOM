@@ -1,2 +1,2 @@
-# BOM
+# BOM (Browser Object Model)
 JavaScript BOM
